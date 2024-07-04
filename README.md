@@ -1,16 +1,15 @@
-## Hi there 👋
+## olá pessoal 👋
 
-<!--
-**heloisagasparlima/heloisagasparlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+## você pode entrar em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001138516971sp@al.educacao.sp.gov.br
+
+@heloisagasparlima
+
+![](https://tenor.com/pt-BR/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210)
+
+
