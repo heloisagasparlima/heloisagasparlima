@@ -10,6 +10,5 @@
 
 @heloisagasparlima
 
-![](https://tenor.com/pt-BR/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210)
-
+![](https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif)
 
